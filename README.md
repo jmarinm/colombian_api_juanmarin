@@ -1,8 +1,7 @@
-# React + Vite
+### Instrucciones
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Clonar el repo
+- Entrar a la carpeta del proyecto.
+- Correr el siguiente comando ```docker-compose up``` (Se debe tener docker instalado y corriendo)
+- Termine el comando entrar a ```localhost:3000```
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
